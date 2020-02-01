@@ -11,13 +11,10 @@ Pour lancer le programme de simulation bancaire:
 Les paramètres possibles(possibilité de mettre 0, 1, 2, 3 ou 4 paramètres):
 1er paramètre: 
 Nombre de banques à créer.
-
 2ème paramètre: 
 Nombre de terminaux à créer pour chacune des banques.
-
 3ème paramètre: 
 Nombre de clients à créer dans l'annuaire.
-
 4ème paramètre:
 Temps d’attente moyen entre chaque paiement.
 
