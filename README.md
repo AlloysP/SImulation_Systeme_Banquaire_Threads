@@ -1,6 +1,6 @@
 Authors: PETIT Alloys, JOSSE Raphaël
 
-# Simulation_Systeme_Banquaire_Threads
+# Simulation_Systeme_Bancaire_Threads
 Il est question de simuler un système de paiement par carte bancaire en langage C, ce projet permet de s’entraîner sur la synchronisation des threads.
 
 Pour lancer le programme de simulation bancaire:
