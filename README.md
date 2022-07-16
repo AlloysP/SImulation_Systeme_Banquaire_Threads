@@ -38,4 +38,4 @@ Temps d’attente moyen entre chaque paiement.
 
 - TestMessage.c message.(c,h) : Fonction de gestion des messages
 
-- TestRedirection.c : example de redirection, celui donné en annexe dans le sujet
+- TestRedirection.c : example de redirection
